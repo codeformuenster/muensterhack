@@ -6,8 +6,8 @@ Es wäre schade, wenn diese Ideen und Projekte in Vergessenheit geraten.
 
 # 2018 
 
-[Hier geht' zur Projektseite für 2018](2018.md)
+[Hier geht's zur Projektseite für 2018](2018.md)
 
 # 2017
 
-[Hier geht' zur Projektseite für 2017](2017.md)
+[Hier geht's zur Projektseite für 2017](2017.md)

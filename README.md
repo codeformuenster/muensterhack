@@ -4,6 +4,10 @@ In diesem Repository sammeln wir Hintergrundinfos und Quellcode zu den Projekten
 
 Es wäre schade, wenn diese Ideen und Projekte in Vergessenheit geraten.
 
+# 2023
+
+[Hier geht's zur Projektseite für 2023](2023.md)
+
 # 2022
 
 [Hier geht's zur Projektseite für 2022](2022.md)

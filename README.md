@@ -4,6 +4,10 @@ In diesem Repository sammeln wir Hintergrundinfos und Quellcode zu den Projekten
 
 Es wäre schade, wenn diese Ideen und Projekte in Vergessenheit geraten.
 
+# 2025
+
+[Hier geht's zur Projektseite für 2025](2025.md)
+
 # 2024
 
 [Hier geht's zur Projektseite für 2024](2024.md)
